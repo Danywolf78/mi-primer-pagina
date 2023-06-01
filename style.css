@@ -22,12 +22,14 @@ main{
     padding: 20px;
 }
 .imagen{
-width: 100%;
-display:flex;
-flex-wrap:wrap;
+display: flex;
+flex-wrap: wrap;
 justify-content: center;
 align-items: center;
+}
 
+img{
+    height: 200px;
 }
 footer{
     position: relative;
