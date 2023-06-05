@@ -27,3 +27,7 @@ function validateEmail(email) {
     .addEventListener("click", function() {
     document.querySelector(".nav-links").
     classList.toggle("nav-links-responsive")})
+    const imprimir =(texto)=>{
+      console.log(texto)
+    }
+    imprimir ("Hola Mundo")
